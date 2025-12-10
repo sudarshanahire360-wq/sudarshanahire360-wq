@@ -1,5 +1,6 @@
 ## Hi there 👋
-MT NAME IS SUDARSHAN AND THIS MY PRACTICE REPO!!
+## I am new to coding and excited to learn new stuff
+## Right now Im doing mern stack but I would love to explore devops and cloud in future!!!! 
 
 <!--
 **sudarshanahire360-wq/sudarshanahire360-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
